@@ -2,8 +2,6 @@
 
 This is the official code repository for the paper "[A Margin-Maximizing Fine-Grained Ensemble Method](https://arxiv.org/abs/2409.12849)".
 
-![image](image.png)
-
 ## Repository Contents
 
 In addition to the implementation code, this repository includes:
@@ -79,7 +77,8 @@ Our method outperforms traditional random forests using only one-tenth of the ba
 ## Citation
 
 If you find this work useful in your research, please consider citing:
-> @misc{yuan2024marginmaximizingfinegrainedensemblemethod,
+```
+@misc{yuan2024marginmaximizingfinegrainedensemblemethod,
       title={A Margin-Maximizing Fine-Grained Ensemble Method}, 
       author={Jinghui Yuan and Hao Chen and Renwei Luo and Feiping Nie},
       year={2024},
@@ -88,3 +87,4 @@ If you find this work useful in your research, please consider citing:
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2409.12849}, 
 }
+```
