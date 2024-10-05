@@ -31,7 +31,6 @@ This repository contains:
 - `A Margin-Maximizing Fine-Grained.pdf`: Full paper in PDF format
 - `requirements.txt`: List of project dependencies
 - `data/`: Directory containing datasets used in experiments
-- `results.csv`: CSV file with experimental results
 
 ## Datasets
 
@@ -72,7 +71,7 @@ This will train and evaluate our model along with baseline models on various dat
 
 ## Results
 
-Our method outperforms traditional random forests using only one-tenth of the base learners and other state-of-the-art ensemble methods. Detailed results can be found in the paper and `results.csv`.
+Our method outperforms traditional random forests using only one-tenth of the base learners and other state-of-the-art ensemble methods. Detailed results can be found in the paper.
 
 ## Citation
 
