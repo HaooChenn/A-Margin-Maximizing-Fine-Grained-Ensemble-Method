@@ -49,7 +49,8 @@ The `data/` directory contains the following dataset files:
 
 1. Clone this repository:
 ```
-git clone https://github.com/HaooChenn/A-Margin-Maximizing-Fine-Grained-Ensemble-Method
+git clone https://github.com/HaooChenn/A-Margin-Maximizing-Fine-Grained-Ensemble-Method.git
+cd A-Margin-Maximizing-Fine-Grained-Ensemble-Method
 ```
 2. Create and activate a virtual environment (optional but recommended):
 ```
